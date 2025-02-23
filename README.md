@@ -4,7 +4,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=alfianbisma07&label=Profile%20views&color=0e75b6&style=flat" alt="alfianbisma07" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=alfianbisma07" alt="alfianbisma07" /></a> </p>
-<img align="right" alt="Coding" width="190" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
+<img align="right" alt="Coding" width="170" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
 
 - 👨‍💻 All of my projects are available at [comming soon](comming soon)
 
