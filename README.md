@@ -1,4 +1,4 @@
-[![MasterHead](https://1.bp.blogspot.com/-7A4WynwLsMw/XbBpCXG8fHI/AAAAAAAAMt4/uOa1bpLskYgrwGbllhSu2SDj_Mig8SXJQCLcBGAsYHQ/s1600/2000_600px.gif)](https://rishavchanda.io)
+[![MasterHead](https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif)(https://rishavchanda.io)
 <h1 align="center">Hi 👋, I'm Alfian Bisma Daniswara Sirwenda</h1>
 <h3 align="justify">As a highly skilled Full-Stack Developer and Software Developer in Indonesia, I have extensive experience in designing, developing, and maintaining robust web and mobile applications. With expertise in Laravel, Flutter, Golang, Java, Python, Next Js, React Js, C++, C#, Vue Js, Express.js, PostgreSQL, and MySQL, I specialize in building scalable, secure, and high-performance systems. My proficiency in backend development, API integration, role-based access control, real-time data processing, and CI/CD deployment allows me to deliver seamless and efficient software solutions. Passionate about innovation, I continuously explore the latest technologies to enhance user experience and optimize system performance.</h3>
 
